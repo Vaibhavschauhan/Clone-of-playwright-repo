@@ -12,7 +12,7 @@ test.beforeEach( async ()=>
 
         //My updated Repo for practice
 
-        
+        // My new update in clone repo branch 2
 // console.log(await loginResponse.json());
     // expect(loginResponse.ok()).tobeTruthy();
     const loginResponsejson = await loginResponse.json();
